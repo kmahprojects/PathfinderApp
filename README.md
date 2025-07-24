@@ -33,7 +33,7 @@ g++ -pedantic -Wall -Wextra -std=c++17 <filename>.cpp -o pathfinder
 ### Step 3: Run
 
 Either double click the pathfinder.exe program created, or run it with the command
-
+```bash
 pathfinder.exe
-
+```
 There are sample matrixes in the folders, you may also test it with ones you've created.
