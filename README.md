@@ -28,7 +28,7 @@ Use the following command, replacing `<filename>` with either `pathfinderRecursi
 
 ```bash
 g++ -pedantic -Wall -Wextra -std=c++17 <filename>.cpp -o pathfinder
-
+```
 
 ### Step 3: Run
 
